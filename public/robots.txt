@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sircilla-cloud-kitchen.vercel.app/sitemap.xml
