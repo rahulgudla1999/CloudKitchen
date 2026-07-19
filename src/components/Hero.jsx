@@ -38,7 +38,7 @@ export default function Hero() {
         <div className="hero-art">
           <div className="steam">〰️</div>
           <div className="hero-image-container">
-            <img src="/assets/hero_spread.jpg" alt="A festive spread of Telangana home-style dishes" fetchPriority="high" width="600" height="600" />
+            <img src="/assets/hero_spread.png" alt="A festive spread of Telangana home-style dishes" fetchPriority="high" width="600" height="600" />
             <SmokeEffect />
           </div>
         </div>
